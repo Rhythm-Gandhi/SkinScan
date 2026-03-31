@@ -1,0 +1,7 @@
+{
+  "name": "SkinScan Assistant",
+  "description": "Identify skincare products from images and find the best buying links instantly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
